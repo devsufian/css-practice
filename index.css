@@ -1,4 +1,12 @@
-h1{
-    color: red;
-    font-size: 60px;
+div{
+   background-image: url(img.jpg);
+   background-repeat: no-repeat;
+   
+   
 }
+body{
+    background: url(image.jpg);
+    background-size: cover;
+}
+    
+    
