@@ -1,4 +1,8 @@
-div{
-    background-color: aqua;
-    margin: 15px;
+div {
+  background-color: rgb(70, 70, 119);
+  color: white;
+  width: 300px;
+  border: 15px solid rgb(82, 82, 116);
+  margin: 15px;
+  float: left;
 }
