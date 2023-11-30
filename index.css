@@ -1,8 +1,9 @@
 div {
   background-color: rgb(70, 70, 119);
   color: white;
-  width: 300px;
-  border: 15px solid rgb(82, 82, 116);
+  width: 25%;
+  border: 0.5em solid rgb(82, 82, 116);
   margin: 15px;
   float: left;
+  padding: 15px;
 }
