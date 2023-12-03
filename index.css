@@ -1,19 +1,20 @@
-div {
-  background-color: rgb(70, 70, 119);
-  color: white;
-  width: 25%;
-  border: 0.5em solid rgb(82, 82, 116);
-  margin: 15px;
-  float: left;
-  padding: 15px;
+*{
+  margin: 0px;
+  padding: 0px;
 }
-.ad{
-    background-color: red;
-    color: white;
-    width: 25%;
-    border: 0.5em solid rgb(82, 82, 116);
-    margin: 15px;
-    float: left;
-    padding: 15px;
-
-  }
+h1{
+  color: chocolate;
+  background-color: blue;
+  text-align: left;
+}
+.one{
+  text-align: center;
+   text-align-last: left;
+}
+.two{
+  text-align: center;
+  margin-top: 15px;
+}
+.three{
+  
+}
