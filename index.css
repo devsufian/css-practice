@@ -18,3 +18,7 @@ h1{
   direction: ltr;
   unicode-bidi: bidi-override;
 }
+.ab{
+  text-align: center;
+  
+}
