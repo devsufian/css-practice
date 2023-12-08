@@ -18,3 +18,24 @@ h1{
   direction: rtl;
   unicode-bidi: bidi-override;
 }
+/* .baseline{
+  vertical-align: baseline;
+}
+.text-top{
+  vertical-align: text-top;
+}
+.text-bottom{
+  vertical-align: text-bottom;
+} */
+.sub1{
+  vertical-align: sub;
+}
+.sub{
+  vertical-align: sub;
+}
+.sup{
+  vertical-align: sup;
+}
+.super{
+  vertical-align: super;
+}
