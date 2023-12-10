@@ -1,41 +1,52 @@
-*{
+* {
   margin: 0px;
   padding: 0px;
 }
-h1{
+
+h1 {
   color: chocolate;
   text-align: left;
 }
-.one{
+
+.one {
   text-align: center;
-   text-align-last: left;
+  text-align-last: left;
 }
-.two{
+
+.two {
   text-align: center;
   margin-top: 15px;
 }
-.three{
+
+.three {
   direction: rtl;
   unicode-bidi: bidi-override;
 }
-.baseline{
+
+.baseline {
   vertical-align: baseline;
 }
-.text-top{
+
+.text-top {
   vertical-align: text-top;
 }
-.text-bottom{
+
+.text-bottom {
   vertical-align: text-bottom;
 }
-.sub1{
+
+.sub1 {
   vertical-align: sub;
 }
-.sub{
+
+.sub {
   vertical-align: sub;
 }
-.sup{
+
+.sup {
   vertical-align: sup;
 }
-.super{
+
+.super {
   vertical-align: super;
 }
