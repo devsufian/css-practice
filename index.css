@@ -1,52 +1,16 @@
-* {
-  margin: 0px;
-  padding: 0px;
+.aa{
+  text-decoration: none;
+  font-size: 30px;
 }
-
-h1 {
-  color: chocolate;
-  text-align: left;
+.ab{
+  font-size: 30px;
+  text-decoration: overline;
 }
-
-.one {
-  text-align: center;
-  text-align-last: left;
+.ac{
+  font-size: 30px;
+  text-decoration: underline;
 }
-
-.two {
-  text-align: center;
-  margin-top: 15px;
-}
-
-.three {
-  direction: rtl;
-  unicode-bidi: bidi-override;
-}
-
-.baseline {
-  vertical-align: baseline;
-}
-
-.text-top {
-  vertical-align: text-top;
-}
-
-.text-bottom {
-  vertical-align: text-bottom;
-}
-
-.sub1 {
-  vertical-align: sub;
-}
-
-.sub {
-  vertical-align: sub;
-}
-
-.sup {
-  vertical-align: sup;
-}
-
-.super {
-  vertical-align: super;
+.ad{
+  font-size: 30px;
+  text-decoration: underline overline;
 }
