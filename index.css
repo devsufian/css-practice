@@ -1,19 +1,24 @@
-.aa{
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.aa {
   text-decoration: none;
   font-size: 30px;
 }
-.ab{
+.ab {
   font-size: 30px;
   text-decoration: overline;
 }
-.ac{
+.ac {
   font-size: 30px;
   text-decoration: underline;
 }
-.ad{
+.ad {
   font-size: 30px;
   text-decoration: underline overline;
 }
-.ae{
+.ae {
   text-decoration: line-through;
 }
