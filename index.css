@@ -22,9 +22,18 @@
 .ae {
   text-decoration: line-through;
 }
-.af{
+.af {
   font-size: large;
 }
-h1{
+h1 {
   font-size: smaller;
+}
+.flex {
+  display: flex;
+  gap: 20px;
+}
+.child {
+  width: 500px;
+  background: #f38888;
+  padding: 50px;
 }
