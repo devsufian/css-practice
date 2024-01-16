@@ -12,5 +12,9 @@ a:active{
     color: red;
     font-weight: bold;
 }
+a:focus{
+    color: blueviolet;
+    font-size: 18px;
+}
     
    
