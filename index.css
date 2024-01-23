@@ -16,8 +16,10 @@ a:focus{
     color: blueviolet;
     font-size: 18px;
 }
-.btn{
+a.btn{
     text-decoration: none;
+    background-color: red;
+    color: white;
 }
     
    
